@@ -8,7 +8,7 @@ Integrasi SatuSehat dengan cepat dan mudah
 - **Integrasi Sederhana**: Proses integrasi yang mudah tanpa memerlukan keahlian teknis yang tinggi.
 - **Keamanan Data**: Perlindungan data kesehatan dengan standar keamanan tinggi.
 - **Dukungan Standar**: Menyajikan data sesuai dengan standar SatuSehat yang ditetapkan oleh pemerintah.
-- **Dukungan Multi-Platform**: Kompatibel dengan berbagai sistem kesehatan dan teknologi yang umum digunakan.
+- **Dukungan Multi-Platform**: Kompatibel dengan berbagai sistem kesehatan dan teknologi yang umum digunakan. (Apapun sistem anda, berbasis web, berbasis desktop, kami akan bantu anda)
 
 ## Hubungi Kami
 Jika Anda memiliki pertanyaan atau membutuhkan bantuan, jangan ragu untuk menghubungi kami melalui WhatsApp: [Klik di sini](https://wa.me/6285608113865).
